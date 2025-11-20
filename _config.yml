@@ -1,5 +1,46 @@
-title: Juan Targon
+title: "Juan Cruz Targon"
+description: "Data Engineer | Data Science | ML Engineer - Portfolio & Projects"
+author: "Juan Cruz Targon"
 
-
-show_downloads: true
+# Theme
 theme: jekyll-theme-minimal
+
+# Show download button for the repo (optional)
+show_downloads: true
+
+# Your profile image (put the image in /assets/profile.jpg for example)
+logo: /assets/profile.jpg
+
+# Favicon (also place in /assets/)
+favicon: /assets/favicon.ico
+
+# Social links (appear in the sidebar)
+social_links:
+  linkedin: "https://www.linkedin.com/in/juan-cruz-targon"
+  github: "https://github.com/juancruztargon"
+  email: "mailto:juantargon@gmail.com"
+
+# Navigation bar (custom menu)
+nav:
+  - name: "Home"
+    link: "/"
+  - name: "Projects"
+    link: "/projects"
+  - name: "CV"
+    link: "/cv"
+  - name: "Contact"
+    link: "/contact"
+
+# Optional Google Analytics
+google_analytics: ""
+
+# Markdown options
+markdown: kramdown
+
+# Plugins for better SEO and structure
+plugins:
+  - jekyll-seo-tag
+
+# Build settings
+exclude:
+  - "README.md"
