@@ -3,7 +3,7 @@ description: "Data Engineer | Data Science | ML Engineer - Portfolio & Projects"
 author: "Juan Cruz Targon"
 
 # Theme
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 
 # Show download button for the repo (optional)
 show_downloads: true
