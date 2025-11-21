@@ -82,13 +82,5 @@ A system for managing training routines and performance tracking.
 Includes backend development in Python, data modeling, ingestion processes, and an analytical dashboard.  
 (*If needed, I can provide a full project description, architecture diagram, and tech stack section.*)
 
----
 
-## 🌐 Contact
-
-**LinkedIn:** https://www.linkedin.com/in/juan-cruz-targon  
-**Email:** juantargon@gmail.com  
-**Location:** Barcelona, Spain  
-
----
 

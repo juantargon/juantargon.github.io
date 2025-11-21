@@ -35,9 +35,9 @@ social_links:
   email: "mailto:juantargon@gmail.com"
 
 # Navigation bar (custom menu)
-nav:
-  - name: "Home"
-    link: "/"
+#nav:
+#  - name: "Home"
+#    link: "/"
  # - name: "Projects"
     #link: "/projects"
   #- name: "CV"

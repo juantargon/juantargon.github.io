@@ -1,6 +1,10 @@
 img[alt="Logo"] {
   border-radius: 50%;
-  width: 200px;
-  height: 200px;
+  width: 300px;
+  height: 300px;
   object-fit: cover;
+}
+
+footer {
+  display: none !important;
 }
