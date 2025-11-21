@@ -6,7 +6,7 @@ author: "Juan Cruz Targon"
 theme: jekyll-theme-minimal
 
 # Show download button for the repo (optional)
-show_downloads: true
+#show_downloads: true
 
 # Your profile image (put the image in /assets/profile.jpg for example)
 logo: /assets/profile.jpg

@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/style.css">
+
 # Data Engineer | Data Science | ML Engineer
 
 I am a Data Engineer with experience in data ingestion, modeling, and processing across Big Data and Cloud environments.  
