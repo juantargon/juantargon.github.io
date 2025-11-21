@@ -1,7 +1,24 @@
 title: "Juan Cruz Targon"
-description: "| Data Engineer
-                Data Science
-                ML Engineer "
+description:
+  <p align="center">
+  Barcelona, Spain
+  <br> (+34) 600551568 
+  <br> juantargon@gmail.com
+  <br> <a href="pdf/Carbone_Giorgio_CV_eng.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/juan-cruz-targon-93a876228/">LinkedIn</a>
+  </p>
+  <p align="justify">
+  I am a <b>Data Engineer</b> with experience in <b>data ingestion, modeling, and processing</b> across Big Data and cloud environments, focused on building efficient, scalable, and high-quality data solutions.
+  <br><br>
+  I previously worked at <b>Santander Tecnología</b> (via Datalytics) and <b>Disbyte</b>, where I developed and optimized end-to-end data pipelines using technologies such as <b>PySpark, Airflow, SQL, AWS, and Python</b>. My work centered on improving performance, ensuring data reliability, and enabling business-driven analytics.
+  <br><br>
+  I hold a degree in <b>Information Systems Engineering</b> and I am currently pursuing a <b>Master’s in Economics, Finance, and Computation</b> at UNIA, integrating Big Data, applied economics, and AI-driven analysis.
+  <br><br>
+  Throughout my career, I have worked closely with engineering and business teams, contributing to data architecture design, defining modeling standards, and enhancing data quality and traceability across systems.
+  <br><br>
+  I am a committed, analytical, and proactive professional, passionate about leveraging data engineering, cloud technologies, and automation to solve complex problems and support data-driven decision-making.
+  <br><br>
+  </p>
 author: "Juan Cruz Targon"
 
 # Theme

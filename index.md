@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="/assets/style.css">
+<link rel="icon" type="image/png" href="/assets/favicon.png">
 
 # Data Engineer | Data Science | ML Engineer
 
