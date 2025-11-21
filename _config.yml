@@ -12,7 +12,7 @@ theme: jekyll-theme-minimal
 logo: /assets/profile.jpg
 
 # Favicon (also place in /assets/)
-#favicon: /assets/favicon.ico
+favicon: /assets/favicon.png
 
 # Social links (appear in the sidebar)
 social_links:
